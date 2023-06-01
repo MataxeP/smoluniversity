@@ -1,0 +1,48 @@
+name: smol_university
+description: Смоленский Университет
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  rive: 0.9.1
+  shared_preferences:
+  google_fonts:
+  cupertino_icons:
+  get:
+  firebase_core:
+  firebase_auth:
+  cloud_firestore:
+  gap:
+  flutter_riverpod:
+  intl:
+  google_maps_flutter:
+  awesome_snackbar_content:
+  invert_colors:
+  get_storage:
+  awesome_notifications:
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints:
+  flutter_native_splash:
+
+flutter_native_splash:
+  color: "#0c9869"
+  image: "assets/images/logo.png"
+  android: true
+  ios: true 
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+    - assets/RiveAssets/

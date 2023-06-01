@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "329073268184",
+    "project_id": "smoluniversity",
+    "storage_bucket": "smoluniversity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329073268184:android:626b44df178310fafc0ead",
+        "android_client_info": {
+          "package_name": "com.profburoFMF.university.smol_university"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329073268184-egq3qttdimblsvo2jq44gdgn5d583490.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz3-3wdxEIExRz9PpNt20Du-J8p-XzkaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329073268184-egq3qttdimblsvo2jq44gdgn5d583490.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "329073268184-0180qvsod0urgitqb1fetfshc2vt3hsi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.profburoFMF.university.smolUniversity"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
